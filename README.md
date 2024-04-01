@@ -14,5 +14,5 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="25" height="25" /> I recently earned a [**badge**](https://www.credly.com/badges/9473d062-41c5-4566-ace6-05bc92d475f5/public_url) from Amazon Web Services Training and Certification
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9473d062-41c5-4566-ace6-05bc92d475f5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
