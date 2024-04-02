@@ -15,4 +15,6 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="25" height="25" /> I recently earned a [**badge**](https://www.credly.com/badges/9473d062-41c5-4566-ace6-05bc92d475f5/public_url) from Amazon Web Services Training and Certification
 
 <!--START_SECTION:badges-->
+
+[![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/110x110/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/9473d062-41c5-4566-ace6-05bc92d475f5 "AWS Knowledge: Cloud Essentials")
 <!--END_SECTION:badges-->
