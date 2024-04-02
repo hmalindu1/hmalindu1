@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> I enjoy writing [**Tech Blogs**](https://medium.com/@hemachandra.hashan) about what I learn day to day life, so that it can make someone's **life easier**. Also it is a goot practice to understand concepts thoroughly while keeping things for future reference.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> I am really enthusiastic about learning new technologies.Currently I am learning **Angular** and **NextJs**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> I am really enthusiastic about learning new technologies. Currently I am learning **Angular** , **NextJs** and **Amazon Web Services**
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="25" height="25" /> I recently earned a [**badge**](https://www.credly.com/badges/9473d062-41c5-4566-ace6-05bc92d475f5/public_url) from Amazon Web Services Training and Certification
 
