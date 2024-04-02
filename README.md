@@ -8,7 +8,7 @@
 
 <a href="https://stackoverflow.com/users/21999955/hashan-hemachandra?tab=profile"><img src="https://stackoverflow.com/users/flair/21999955.png?theme=dark" width="208" height="58" alt="profile for Hashan Hemachandra at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hashan Hemachandra at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> I enjoy writing [**Tech Blogs**](https://medium.com/@hemachandra.hashan) about what I learn day to day life, so that it can make someone's **life easier**. Also I will be able to understand concepts thoroughly while keeping things for future reference.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> I enjoy writing [**Tech Blogs**](https://medium.com/@hemachandra.hashan) about what I learn day to day life, so that it can make someone's **life easier**. Also it is a goot practice to understand concepts thoroughly while keeping things for future reference.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> I am really enthusiastic about learning new technologies.Currently I am learning **Angular** and **NextJs**
 
