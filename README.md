@@ -8,7 +8,7 @@
 
 <a href="https://stackoverflow.com/users/21999955/hashan-hemachandra?tab=profile"><img src="https://stackoverflow.com/users/flair/21999955.png?theme=dark" width="208" height="58" alt="profile for Hashan Hemachandra at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hashan Hemachandra at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> I enjoy writing [**Tech Blogs**](https://medium.com/@hemachandra.hashan) about what I learn day to day life, so that it can make someone's **life easier**. Also it is a goot practice to understand concepts thoroughly while keeping things for future reference.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> I enjoy writing [**Tech Blogs**](https://medium.com/@hemachandra.hashan) about what I learn day to day life, so that it can make someone's **life easier**.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> I am really enthusiastic about learning new technologies. Currently I am learning **Angular** , **NextJs** and **Amazon Web Services**
 
@@ -18,3 +18,5 @@
 
 [![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/110x110/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/9473d062-41c5-4566-ace6-05bc92d475f5 "AWS Knowledge: Cloud Essentials")
 <!--END_SECTION:badges-->
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Popcorn.png" alt="Popcorn" width="25" height="25" /> Apart from tech world, I am a die hard **Bataman** fan
