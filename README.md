@@ -23,4 +23,4 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" alt="Key" width="15" height="15" /> **Golden rule of life** : “He who blames others has a long way to go on his journey. He who blames himself is halfway there. He who</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blames no one has arrived.”
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="15" height="15" /> The Best book I have ever read - **Atomic Habits** - by James Clear. It changed my life in a so much better way  that I couldn't have imagined. 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="15" height="15" /> The Best book I have ever read - **Atomic Habits** - by James Clear. It changed my life in a so much better way  that I couldn't have</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;imagined. 
