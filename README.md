@@ -6,7 +6,9 @@
   <img src="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/reactjs/21999955?theme=dark" alt="user:21999955's SO ranking for reactjs" width="150" >
 </a> on [**Stack Overflow**](https://stackoverflow.com/users/21999955/hashan-hemachandra?tab=profile) . I am currently working as a [**Software Engineer**](https://www.linkedin.com/in/hashan-hemachandra/)
 
-<a href="https://stackoverflow.com/users/21999955/hashan-hemachandra?tab=profile"><img src="https://stackoverflow.com/users/flair/21999955.png?theme=dark" width="208" height="58" alt="profile for Hashan Hemachandra at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hashan Hemachandra at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/21999955?theme=dark" alt="user:21999955's SO profile">
+</a>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="15" height="15" /> I enjoy writing [**Tech Blogs**](https://medium.com/@hemachandra.hashan) about what I learn day to day life, so that it can make someone's **life easier**.
 
