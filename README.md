@@ -34,3 +34,10 @@
 -   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="15" height="15" /> listed as a part of the **top 24 %** Stack Overflow answerers in the technology _reactjs_ with a score of 17 (April 2024 update)
 -   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="15" height="15" /> I was invited to contribute as a writer in [**Stackademic**]((https://blog.stackademic.com/)) blog group.
 -   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="15" height="15" /> Earned a certification from _AWS_ for [**Cloud Essentials**](https://www.credly.com/badges/9473d062-41c5-4566-ace6-05bc92d475f5/public_url)
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lab%20Coat.png" alt="Lab Coat" width="32" height="32" /> Skills
+
+### Languages
+
+![typescript](https://img.shields.io/badge/_-TypeScript-323330?style=flat-square&logo=typescript&logoColor=3178C6&color=323330)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
