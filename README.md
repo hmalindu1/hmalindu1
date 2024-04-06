@@ -88,6 +88,8 @@
 ![amazons3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![amazonecs](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
 ![amazoncloudwatch](https://img.shields.io/badge/Amazon_Cloud_Watch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![digitalocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![godaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white)
 
 
 
