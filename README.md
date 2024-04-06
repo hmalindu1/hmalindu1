@@ -41,3 +41,4 @@
 
 ![typescript](https://img.shields.io/badge/_-TypeScript-323330?style=flat-square&logo=typescript&logoColor=3178C6&color=323330)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![csharp](https://img.shields.io/badge/csharp-e0e0e0?style=flat-square&logo=csharp&logoColor=512BD4)
