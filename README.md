@@ -39,6 +39,6 @@
 
 ### Languages
 
-![typescript](https://img.shields.io/badge/_-TypeScript-323330?style=flat-square&logo=typescript&logoColor=3178C6&color=323330)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![csharp](https://img.shields.io/badge/csharp-e0e0e0?style=flat-square&logo=csharp&logoColor=512BD4)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![csharp](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
