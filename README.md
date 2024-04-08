@@ -130,8 +130,6 @@ Want to read more? Checkout all the blog posts [here](https://medium.com/@hemach
 
 <div class="flex w-full flex-col items-center">
   <img class="output" src="https://github-readme-stats.vercel.app/api?username=hmalindu1&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-  <br />
   <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=hmalindu1&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
-  <br />
   <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmalindu1&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </div>
