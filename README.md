@@ -117,8 +117,14 @@
 ![webstorm](https://img.shields.io/badge/WebStorm-00ced8?style=for-the-badge&logo=webstorm&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="32" height="32" /> Top Blog Posts
 
+- [How to Deploy NestJS backend with Prisma ORM and MySQL into AWS on Amazon Linux 2023 using Git, EC2, RDS and PM2 🛠️](https://medium.com/stackademic/how-to-deploy-nestjs-backend-with-prisma-orm-and-mysql-into-aws-on-amazon-linux-2023-using-git-2f8041140dff)
+- [Understanding the Power of React Context API through a Practical Example](https://blog.stackademic.com/understanding-the-power-of-react-context-api-through-a-practical-example-3312a7a2c824)
+- [Mastering Refs in React: Practical Guide with useRef and forwardRef](https://blog.stackademic.com/mastering-refs-in-react-practical-guide-with-useref-and-forwardref-374c7a57eba1)
+- [How to create a waterfall like animation for table rows in React using Framer Motion](https://blog.stackademic.com/how-to-create-a-waterfall-like-animation-for-table-rows-in-react-using-framer-motion-c09990320926)
 
+Want to read more? Checkout all the blog posts [here](https://medium.com/@hemachandra.hashan)
 
 
 
