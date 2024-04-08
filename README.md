@@ -114,7 +114,7 @@
 ### IDEs
 
 ![datagrip](https://img.shields.io/badge/DataGrip-1cd990?style=for-the-badge&logo=datagrip&logoColor=white)
-![webstorm](https://img.shields.io/badge/DataGrip-00ced8?style=for-the-badge&logo=webstorm&logoColor=white)
+![webstorm](https://img.shields.io/badge/WebStorm-00ced8?style=for-the-badge&logo=webstorm&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
