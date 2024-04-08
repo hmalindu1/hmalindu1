@@ -128,7 +128,7 @@ Want to read more? Checkout all the blog posts [here](https://medium.com/@hemach
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Stats
 
-<div class="flex w-full flex-col items-center">
+<div style="display: flex; width: 100%; flex-direction: column; align-items: center;">
   <img class="output" src="https://github-readme-stats.vercel.app/api?username=hmalindu1&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
   <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=hmalindu1&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
   <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmalindu1&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
