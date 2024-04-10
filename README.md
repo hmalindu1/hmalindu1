@@ -128,8 +128,12 @@ Want to read more? Checkout all the blog posts [here](https://medium.com/@hemach
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Stats
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=hmalindu1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=hmalindu1&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=hmalindu1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<div align="center">
+  <img width=400 src='https://github-readme-stats.vercel.app/api?username=hmalindu1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+  <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=hmalindu1&theme=vue-dark&hide_border=true' />
+  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=hmalindu1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+  <img src='https://github-profile-trophy.vercel.app/?username=hmalindu1&theme=nord&no-frame=true&title=Commit,Repositories,Stars,Followers,Issues,Experience'>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hmalindu1&theme=nord&no-frame=true&title=Commit,Repositories,Stars,Followers,Issues,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hmalindu1&theme=nord&no-frame=true&title=Commit,Repositories,Stars,Followers,Issues,Experience)](https://github.com/ryo-ma/github-profile-trophy) -->
