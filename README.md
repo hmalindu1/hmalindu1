@@ -130,9 +130,12 @@ Want to read more? Checkout all the blog posts [here](https://medium.com/@hemach
 
 <div align="center">
   <img width=400 src='https://github-readme-stats.vercel.app/api?username=hmalindu1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+  <br/>
   <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=hmalindu1&theme=vue-dark&hide_border=true' />
-  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=hmalindu1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-  <img src='https://github-profile-trophy.vercel.app/?username=hmalindu1&theme=nord&no-frame=true&title=Commit,Repositories,Stars,Followers,Issues,Experience'>
+  <br/>
+  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=hmalindu1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&row=1&column=6&margin-h=8' />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hmalindu1&row=1&column=6&margin-h=8&theme=nord&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 </div>
 
 
