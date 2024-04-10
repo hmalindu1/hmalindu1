@@ -132,3 +132,4 @@ Want to read more? Checkout all the blog posts [here](https://medium.com/@hemach
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=hmalindu1&theme=vue-dark&hide_border=true' />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=hmalindu1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hmalindu1&theme=nord&no-frame=true&title=Commit,Repositories,Stars,Followers,Issues,Experience)](https://github.com/ryo-ma/github-profile-trophy)
