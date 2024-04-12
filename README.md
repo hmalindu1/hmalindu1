@@ -140,3 +140,10 @@ Want to read more? Checkout all the blog posts [here](https://medium.com/@hemach
   <img src="https://github-profile-trophy.vercel.app/?username=hmalindu1&row=1&column=6&margin-h=8&theme=nord&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 </div>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Links
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hashan-hemachandra/)
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/hmalindu1)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hmalindu1)
+[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hemachandra.hashan)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hemachandra.hashan@gmail.com)
