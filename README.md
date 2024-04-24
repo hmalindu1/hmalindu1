@@ -18,6 +18,7 @@
 
 <!--START_SECTION:badges-->
 
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/d2ee6b81-d519-4e4e-9e02-dd1420b9601b "AWS Cloud Quest: Cloud Practitioner")
 [![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/110x110/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/9473d062-41c5-4566-ace6-05bc92d475f5 "AWS Knowledge: Cloud Essentials")
 <!--END_SECTION:badges-->
 
