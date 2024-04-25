@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="15" height="15" /> I am really enthusiastic about learning new technologies. Currently I am learning **Angular** , **NextJs** and **Amazon Web Services**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="15" height="15" /> I recently earned a [**badge**](https://www.credly.com/badges/9473d062-41c5-4566-ace6-05bc92d475f5/public_url) from Amazon Web Services Training and Certification
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="15" height="15" /> I earned two varyfied badges [**badge**]((https://www.credly.com/users/hashan-hemachandra/badges)) from Amazon Web Services Training and Certification
 
 <!--START_SECTION:badges-->
 
