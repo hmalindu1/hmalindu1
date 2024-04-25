@@ -25,10 +25,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="32" height="32" /> Achievements
 
 
--   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="15" height="15" /> Global Rank within [**top 0.61% this year**](https://stackexchange.com/leagues/1/year/stackoverflow/2024-01-01/21999955#21999955) at _Stack Overflow_ (April 2024 update)
--   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="15" height="15" /> listed as a part of the **top 24 %** Stack Overflow answerers in the technology _reactjs_ with a score of 17 (April 2024 update)
 -   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="15" height="15" /> I was invited to contribute as a writer in [**Stackademic**]((https://blog.stackademic.com/)) blog group.
--   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="15" height="15" /> Earned a certification from _AWS_ for [**Cloud Essentials**](https://www.credly.com/badges/9473d062-41c5-4566-ace6-05bc92d475f5/public_url)
+-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="15" height="15" /> Earned two certifications from _AWS_ for [**Cloud Essentials**]((https://www.credly.com/users/hashan-hemachandra/badges))
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lab%20Coat.png" alt="Lab Coat" width="32" height="32" /> Skills
 
