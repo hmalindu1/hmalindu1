@@ -2,13 +2,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="32" height="32" /> About Me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Office%20Worker.png" alt="Man Office Worker" width="15" height="15" /> I am Hashan Hemachandra, a **Full Stack Web Developer** (specializing in **React Applications**) and within <a href="https://stackoverflow-readme-profile.vercel.app/tags-league/reactjs/users/21999955">
-  <img src="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/reactjs/21999955?theme=dark" alt="user:21999955's SO ranking for reactjs" width="150" >
-</a> on [**Stack Overflow**](https://stackoverflow.com/users/21999955/hashan-hemachandra?tab=profile) . I am currently working as a [**Software Engineer**](https://www.linkedin.com/in/hashan-hemachandra/)
-
-<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
-  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/21999955?theme=dark" alt="user:21999955's SO profile">
-</a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Office%20Worker.png" alt="Man Office Worker" width="15" height="15" /> I am Hashan Hemachandra, a **Full Stack Web Developer** (specializing in **React Applications**) and currently working as a [**Software Engineer**](https://www.linkedin.com/in/hashan-hemachandra/)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="15" height="15" /> I enjoy writing [**Tech Blogs**](https://medium.com/@hemachandra.hashan) about what I learn day to day life, so that it can make someone's **life easier**.
 
