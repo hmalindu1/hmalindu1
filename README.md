@@ -123,6 +123,8 @@ Want to read more? Checkout all the blog posts [here](https://medium.com/@hemach
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Stats
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hmalindu1" alt="profile" />
+  <br/>
   <img width=400 src='https://github-readme-stats.vercel.app/api?username=hmalindu1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
   <br/>
   <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=hmalindu1&theme=vue-dark&hide_border=true' />
@@ -130,8 +132,6 @@ Want to read more? Checkout all the blog posts [here](https://medium.com/@hemach
   <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=hmalindu1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&row=1&column=6&margin-h=8' />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=hmalindu1&row=1&column=6&margin-h=8&theme=nord&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=hmalindu1" alt="profile" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Links
