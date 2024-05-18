@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=hmalindu1)
-
 # Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="32" height="32" /> About Me
@@ -133,7 +131,7 @@ Want to read more? Checkout all the blog posts [here](https://medium.com/@hemach
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=hmalindu1&row=1&column=6&margin-h=8&theme=nord&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
   <br/>
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hmalindu1.hmalindu1)
+  <img src="https://komarev.com/ghpvc/?username=hmalindu1" alt="profile" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Links
