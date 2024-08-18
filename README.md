@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Office%20Worker.png" alt="Man Office Worker" width="15" height="15" /> I am Hashan Hemachandra, a **Full Stack Web Developer** (specializing in **React Applications**) and currently working as a [**Software Engineer**](https://www.linkedin.com/in/hashan-hemachandra/)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="15" height="15" /> I enjoy writing [**Tech Blogs**](https:www.jstodev.com) about what I learn day to day life, so that it can make someone's **life easier**.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="15" height="15" /> I enjoy writing [**Tech Blogs**](https://www.jstodev.com) about what I learn day to day life, so that it can make someone's **life easier**.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="15" height="15" /> I am really enthusiastic about learning new technologies. Currently I am confident of **Next JS** , **React** and **Amazon Web Services**
 
