@@ -4,9 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Office%20Worker.png" alt="Man Office Worker" width="15" height="15" /> I am Hashan Hemachandra, a **Full Stack Web Developer** (specializing in **React Applications**) and currently working as a [**Software Engineer**](https://www.linkedin.com/in/hashan-hemachandra/)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="15" height="15" /> I enjoy writing [**Tech Blogs**](https://medium.com/@hemachandra.hashan) about what I learn day to day life, so that it can make someone's **life easier**.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="15" height="15" /> I enjoy writing [**Tech Blogs**](https:www.jstodev.com) about what I learn day to day life, so that it can make someone's **life easier**.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="15" height="15" /> I am really enthusiastic about learning new technologies. Currently I am learning **Angular** , **NextJs** and **Amazon Web Services**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="15" height="15" /> I am really enthusiastic about learning new technologies. Currently I am confident of **Next JS** , **React** and **Amazon Web Services**
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="15" height="15" /> I earned two verified [**badges**](https://www.credly.com/users/hashan-hemachandra/badges) from Amazon Web Services Training and Certification
 
@@ -21,13 +21,13 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" alt="Key" width="15" height="15" /> **Golden rule of life** : “He who blames others has a long way to go on his journey. He who blames himself is halfway there. He who</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blames no one has arrived.”
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="15" height="15" /> The Best book I have ever read - **Atomic Habits** - by James Clear. It changed my life in a so much better way  that I couldn't have</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;imagined. 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="15" height="15" /> The Best book I have ever read - **Atomic Habits** - by James Clear. It changed my life in a so much better way  that I couldn't have</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;imagined.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="32" height="32" /> Achievements
 
-
--   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="15" height="15" /> I was invited to contribute as a writer in [**Stackademic**]((https://blog.stackademic.com/)) blog group.
--   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="15" height="15" /> Earned two certifications from _AWS_ for [**Cloud Essentials**]((https://www.credly.com/users/hashan-hemachandra/badges))
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="15" height="15" /> Earned three certifications from _AWS_ for [**Cloud Essentials**]((https://www.credly.com/users/hashan-hemachandra/badges))
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="15" height="15" /> Started my [**own blog**]((https://www.jstodev.com))
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="15" height="15" /> Deployed my first [**Saas applicatoin**]((https://www.pdfqueryai.com))
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lab%20Coat.png" alt="Lab Coat" width="32" height="32" /> Skills
 
@@ -113,12 +113,12 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="32" height="32" /> Top Blog Posts
 
-- [How to Deploy NestJS backend with Prisma ORM and MySQL into AWS on Amazon Linux 2023 using Git, EC2, RDS and PM2 🛠️](https://medium.com/stackademic/how-to-deploy-nestjs-backend-with-prisma-orm-and-mysql-into-aws-on-amazon-linux-2023-using-git-2f8041140dff)
-- [Understanding the Power of React Context API through a Practical Example](https://blog.stackademic.com/understanding-the-power-of-react-context-api-through-a-practical-example-3312a7a2c824)
-- [Mastering Refs in React: Practical Guide with useRef and forwardRef](https://blog.stackademic.com/mastering-refs-in-react-practical-guide-with-useref-and-forwardref-374c7a57eba1)
-- [How to create a waterfall like animation for table rows in React using Framer Motion](https://blog.stackademic.com/how-to-create-a-waterfall-like-animation-for-table-rows-in-react-using-framer-motion-c09990320926)
+- [How to Deploy NestJS backend with Prisma ORM and MySQL into AWS on Amazon Linux 2023 using Git, EC2, RDS and PM2 🛠️](https://www.jstodev.com/how-to-deploy-nest-js-server-to-aws/)
+- [Understanding the Power of React Context API through a Practical Example](https://www.jstodev.com/understanding-the-power-of-react-context-api-through-a-practical-example/)
+- [Mastering Refs in React: Practical Guide with useRef and forwardRef](https://www.jstodev.com/mastering-refs-in-react-practical-guide-with-useref-and-forwardref/)
+- [How to create a waterfall like animation for table rows in React using Framer Motion](https://www.jstodev.com/how-to-create-a-waterfall-like-animation-for-table-rows-in-react-using-framer-motion/)
 
-Want to read more? Checkout all the blog posts [here](https://medium.com/@hemachandra.hashan)
+Want to read more? Checkout all the blog posts [here](https://www.jstodev.com/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Stats
 
@@ -137,7 +137,5 @@ Want to read more? Checkout all the blog posts [here](https://medium.com/@hemach
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Links
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hashan-hemachandra/)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/hmalindu1)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hmalindu1)
-[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hemachandra.hashan)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hemachandra.hashan@gmail.com)
