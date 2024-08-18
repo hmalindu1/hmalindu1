@@ -25,9 +25,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="32" height="32" /> Achievements
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="15" height="15" /> Earned three certifications from _AWS_ for [**Cloud Essentials**]((https://www.credly.com/users/hashan-hemachandra/badges))
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="15" height="15" /> Started my [**own blog**]((https://www.jstodev.com))
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="15" height="15" /> Deployed my first [**Saas applicatoin**]((https://www.pdfqueryai.com))
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="15" height="15" /> Earned three certifications from _AWS_ for [**Cloud Essentials**](https://www.credly.com/users/hashan-hemachandra/badges)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="15" height="15" /> Started my [**own blog**](https://www.jstodev.com)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="15" height="15" /> Deployed my first [**Saas applicatoin**](https://www.pdfqueryai.com)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lab%20Coat.png" alt="Lab Coat" width="32" height="32" /> Skills
 
